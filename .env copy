@@ -1,0 +1,3 @@
+// Storing the API key
+VITE_POLYGON_API_KEY="xxxx"
+VITE_OPENAI_API_KEY="xxx"
