@@ -1,6 +1,6 @@
 # Introduction to AI Engineering
 
-## This is going to be a documentation for the StockAI project that I am using to learn about AI Engineering.
+This is going to be a documentation for the StockAI project that I am using to learn about AI Engineering.
 
 ### Polygon.io API
 - The first thing that I did was to get the API key from Polygon.io. This is a free API that provides stock data. I am using this API to get the stock data that I will use to train my model.
